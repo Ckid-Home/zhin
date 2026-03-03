@@ -329,6 +329,20 @@
       "lastUpdate": "2026-02-28T10:59:39.552Z"
     },
     {
+      "name": "@zhin.js/agent",
+      "displayName": "agent",
+      "description": "Zhin AI Agent — session, ZhinAgent, init; composes @zhin.js/core providers and tools",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/agent",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-03-03T02:41:12.768Z"
+    },
+    {
       "name": "@zhin.js/ai",
       "displayName": "ai",
       "description": "AI Service for Zhin.js - Multi-model LLM integration with Agent capabilities",
@@ -795,10 +809,10 @@
     }
   ],
   "stats": {
-    "total": 35,
-    "official": 35,
+    "total": 36,
+    "official": 36,
     "adapters": 14,
     "community": 0
   },
-  "updatedAt": "2026-03-02T02:41:32.752Z"
+  "updatedAt": "2026-03-03T02:44:11.173Z"
 }
